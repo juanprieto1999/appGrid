@@ -659,19 +659,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/vivelabtunja23/.nuget/packages/": {}
+    "/Users/juandavid/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vivelabtunja23/Desktop/David/appGrid/appGrid.iOS/appGrid.iOS.csproj",
+      "projectUniqueName": "/Users/juandavid/Desktop/appGrid/appGrid.iOS/appGrid.iOS.csproj",
       "projectName": "appGrid.iOS",
-      "projectPath": "/Users/vivelabtunja23/Desktop/David/appGrid/appGrid.iOS/appGrid.iOS.csproj",
-      "packagesPath": "/Users/vivelabtunja23/.nuget/packages/",
-      "outputPath": "/Users/vivelabtunja23/Desktop/David/appGrid/appGrid.iOS/obj",
+      "projectPath": "/Users/juandavid/Desktop/appGrid/appGrid.iOS/appGrid.iOS.csproj",
+      "packagesPath": "/Users/juandavid/.nuget/packages/",
+      "outputPath": "/Users/juandavid/Desktop/appGrid/appGrid.iOS/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/vivelabtunja23/.config/NuGet/NuGet.Config"
+        "/Users/juandavid/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"

@@ -741,19 +741,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/vivelabtunja23/.nuget/packages/": {}
+    "/Users/juandavid/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vivelabtunja23/Desktop/David/appGrid/appGrid.Android/appGrid.Android.csproj",
+      "projectUniqueName": "/Users/juandavid/Desktop/appGrid/appGrid.Android/appGrid.Android.csproj",
       "projectName": "appGrid.Android",
-      "projectPath": "/Users/vivelabtunja23/Desktop/David/appGrid/appGrid.Android/appGrid.Android.csproj",
-      "packagesPath": "/Users/vivelabtunja23/.nuget/packages/",
-      "outputPath": "/Users/vivelabtunja23/Desktop/David/appGrid/appGrid.Android/obj",
+      "projectPath": "/Users/juandavid/Desktop/appGrid/appGrid.Android/appGrid.Android.csproj",
+      "packagesPath": "/Users/juandavid/.nuget/packages/",
+      "outputPath": "/Users/juandavid/Desktop/appGrid/appGrid.Android/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/vivelabtunja23/.config/NuGet/NuGet.Config"
+        "/Users/juandavid/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid81"

@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{65B78420-AE74-4EA2-9133-9D6BAC390607}|Default">
-  <MonoDevelop.Ide.ItemProperties.appGrid.Android PreferredExecutionTarget="8bd24332-254b-4c8b-affd-162b81386828" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.ItemProperties.appGrid.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
   <MonoDevelop.Ide.Workbench ActiveDocument="appGrid/MainPage.xaml">
     <Files>
       <File FileName="appGrid/MainPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="appGrid/MainPage.xaml" Line="25" Column="9" />
+      <File FileName="appGrid/MainPage.xaml" Line="3" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
